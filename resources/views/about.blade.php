@@ -52,6 +52,10 @@
                                 <td>Juan Dela Cruz</td>
                                 <td>juandelacruz@sample.com</td>
                             </tr>
+                            <tr>
+                                <td>Kevin Mark Lagman</td>
+                                <td>kevinmarklagman@sample.com</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
