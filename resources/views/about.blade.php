@@ -48,9 +48,16 @@
                                 <td>John Doe</td>
                                 <td>johndoe@sample.com</td>
                             </tr>
+<<<<<<< HEAD
+
+                            <tr>
+                                <td>Samuel Mata</td>
+                                <td>samuelmata@sample.com</td>
+=======
                             <tr>
                                 <td>Juan Dela Cruz</td>
                                 <td>juandelacruz@sample.com</td>
+>>>>>>> 8bfaa48a11d9a516e7057fd1644586fbe9bed281
                             </tr>
                             <tr>
                                 <td>Kevin Mark Lagman</td>
