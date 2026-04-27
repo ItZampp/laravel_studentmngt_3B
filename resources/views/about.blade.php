@@ -48,6 +48,10 @@
                                 <td>John Doe</td>
                                 <td>johndoe@sample.com</td>
                             </tr>
+                            <tr>
+                                <td>Juan Dela Cruz</td>
+                                <td>juandelacruz@sample.com</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
